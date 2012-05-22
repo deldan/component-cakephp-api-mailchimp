@@ -1,4 +1,4 @@
-Proyecto para cakePhp.
+Proyecto para cakePhp 1.3
 Componente conexión api Mailchimp 
 
 
